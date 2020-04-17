@@ -11,5 +11,3 @@ qingfeng-tool-mac
 ### windows版本
 qingfeng-tool.exe
 
-### linux:版本
-encode-server-linux
